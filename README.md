@@ -10,3 +10,4 @@ py.plot(x_deg, y)
 py.xlabel('x(deg)')
 py.ylabel('sin(x)')
 py.grid(True)
+ 
