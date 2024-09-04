@@ -12,4 +12,8 @@ py.ylabel('sin(x)')
 py.grid(True)
  
  
+|주차|실습|
+|:-----:|:-----:|
+|1 | Hello World| 
+|2| Github Classroom|
  
